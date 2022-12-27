@@ -10,9 +10,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
 <img src="https://img.shields.io/badge/Java-2b2e4d?style=for-the-badge&logo=java&logoColor=ff0000" >
-<img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
 </div>
 &nbsp;
 <div id="stats">
@@ -25,7 +23,7 @@
 <a href="mailto:nadikakpathirana@gmail.com">
   <img align="left" alt="Gmail" src="https://shields.io/badge/GMAIL-d6001f?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nadika-k-pathirana-86a036196/">
+<a href="https://www.linkedin.com/in/nadika-k-pathirana-86a036196/" target="_blank">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
