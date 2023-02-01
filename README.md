@@ -41,12 +41,11 @@
 
 
 <h2>Connect With Me :</h2>
-<div id="links">
-<a href="mailto:nadikakpathirana@gmail.com">
-  <img align="left" alt="Gmail" src="https://shields.io/badge/GMAIL-d6001f?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nadika-k-pathirana-86a036196/" target="_blank">
-  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</div>
+<p align="left"> 
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 </br></br>
