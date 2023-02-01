@@ -5,10 +5,14 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 </p>
-
+ -->
+ 
+ <p align="center">
+<a href="https://stackoverflow.com/users/story/12063253"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12666292&theme=dark"></a>
+</p>
 
 ### Skills
 
@@ -32,12 +36,10 @@
 <div id="stats">
   
 <a href="http://www.github.com/nadikakpathirana"><img src="https://github-readme-stats.vercel.app/api?username=nadikakpathirana&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nadikakpathirana's GitHub stats" height="175"/></a> &nbsp;<a href="https://github.com/nadikakpathirana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadikakpathirana&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" height="175" /></a>
-  
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadikakpathirana&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="nadikakpathirana's github stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadikakpathirana&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
 </div>
 </br>
+
+
 <h2>Connect With Me :</h2>
 <div id="links">
 <a href="mailto:nadikakpathirana@gmail.com">
