@@ -1,7 +1,7 @@
 # **Hi there !** <img src="https://raw.githubusercontent.com/nadikakpathirana/nadikakpathirana/master/Assets/hi.gif" width="3%"><img src='https://raw.githubusercontent.com/nadikakpathirana/nadikakpathirana/master/Earth.gif' width="3%">
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3DCEF7&width=500&lines=I'm+Nadika+K+Pathirana.;From+Sri+Lanka.;Software+Engineering++Undergraduate.;Web+Application+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3DCEF7&width=600&height=100&lines=I'm+Nadika+K+Pathirana.;From+Sri+Lanka.;Software+Engineering++Undergraduate.;Web+Application+Developer." alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
