@@ -5,14 +5,14 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 </p>
- -->
+
  
- <p align="center">
+<!--  <p align="center">
 <a href="https://stackoverflow.com/users/story/12063253"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12666292&theme=dark"></a>
-</p>
+</p> -->
 
 ### Skills
 
